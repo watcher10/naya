@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-03T18:12:30.059588156Z"
+    description: A Helm chart for Kubernetes
+    digest: 75fac0eb2246f6d4c7d549b525ff87638cb9cb034617b6f992bec0f0d31984df
+    name: nginx
+    type: application
+    urls:
+    - https://github.com/watcher10/ocp4.git/nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-03T18:12:30.058839349Z"
